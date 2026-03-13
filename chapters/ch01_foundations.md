@@ -11,6 +11,58 @@ Technical Account Manager, VMware by Broadcom
 
 ---
 
+## Legal Notices and Trademark Attributions
+
+**Copyright Notice**
+
+Copyright © 2026 Pranav Patel. All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+**Disclaimer**
+
+This book is an independent publication and is not affiliated with, authorized by, endorsed by, or sponsored by Broadcom Inc. or any of its subsidiaries or affiliates. The author is employed by VMware by Broadcom as a Technical Account Manager; however, this book represents the author's personal analysis and opinions, not the official positions of Broadcom Inc., VMware LLC, or any affiliated entity.
+
+The information in this book is provided on an "as is" basis without warranty of any kind, express or implied. The author and publisher shall not be liable for any errors, omissions, or damages arising from the use of the information contained herein. Technical details, product features, pricing, licensing terms, and support policies described in this book are subject to change without notice. Readers should consult official Broadcom documentation and their account teams for the most current and authoritative information.
+
+Statistical claims, analyst findings, and third-party research cited in this book are attributed to their original sources to the best of the author's ability. The author does not guarantee the accuracy of third-party data and encourages readers to consult original sources for verification.
+
+**Trademark Attributions**
+
+The following trademarks are the property of Broadcom Inc. and/or its subsidiaries and are used in this book for identification and reference purposes only:
+
+VMware®, VMware Cloud Foundation™, vSphere®, ESXi™, ESX™, vCenter®, vCenter Server®, vSAN™, NSX®, vDefend™, HCX™, Aria™, Tanzu®, VMware Cloud Director™, VMware Validated Solutions™, SDDC Manager™, VCF Operations™, VCF Automation™, VCF Installer™, VMware Live Recovery™, VMware Private AI Foundation™, Avi™, and the VMware logo are trademarks or registered trademarks of Broadcom Inc. and/or its subsidiaries in the United States and other countries.
+
+Additional third-party trademarks referenced in this book:
+
+- NVIDIA®, vGPU™, BlueField®, CUDA®, Triton™, and Hopper™ are trademarks of NVIDIA Corporation.
+- Intel®, Xeon®, Sapphire Rapids™, Granite Rapids™, and TDX™ are trademarks of Intel Corporation.
+- AMD®, EPYC™, Genoa™, Turin™, and SEV-SNP™ are trademarks of Advanced Micro Devices, Inc.
+- Kubernetes® is a registered trademark of The Linux Foundation.
+- Nutanix® and AHV™ are trademarks of Nutanix, Inc.
+- Microsoft®, Azure®, Windows®, and Hyper-V® are trademarks of Microsoft Corporation.
+- Amazon Web Services™, AWS®, and Outposts™ are trademarks of Amazon.com, Inc.
+- Red Hat®, OpenShift®, and Ansible® are trademarks of Red Hat, Inc.
+- HashiCorp® and Terraform® are trademarks of HashiCorp, Inc.
+- Pearson VUE® is a trademark of Pearson Education, Inc.
+- Gartner® is a registered trademark of Gartner, Inc.
+
+All other trademarks, service marks, and trade names referenced in this book are the property of their respective owners. The use of any trademark in this book does not imply any affiliation with or endorsement by the trademark owner.
+
+**Examination Disclaimer**
+
+The practice examination questions in Chapter 12 are original works created by the author for educational purposes. They are not sourced from, affiliated with, or endorsed by Broadcom Inc., Pearson VUE, or any official certification examination. These questions are designed to test general conceptual knowledge and should not be considered representative of actual examination content. Broadcom's official exam blueprints and study materials remain the authoritative source for certification preparation.
+
+**Publication Information**
+
+- First Edition: March 2026
+- Current through: VCF 9.0.2 (January 2026)
+- ISBN: Pending
+
+For corrections, feedback, or permissions requests, contact the author via GitHub.
+
+---
+
 ## Foreword
 
 There is a reckoning underway in enterprise IT, and if you have been paying attention, you saw it coming.
